@@ -1,0 +1,26 @@
+@font-face {
+  font-family: BrandonBold;
+  src: url("./assets/fonts/BrandonBold.ttf");
+}
+@font-face {
+  font-family: BrandonRegular;
+  src: url("./assets/fonts/BrandonRegular.ttf");
+}
+@font-face {
+  font-family: BrandonLight;
+  src: url("./assets/fonts/BrandonLight.ttf");
+}
+
+body {
+  color: #202020;
+  padding: 20px 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #202020;
+}
+
+* {
+  box-sizing: border-box;
+}
